@@ -11,7 +11,6 @@ Here’s a bit about me:
 🌱 Currently Working On: Analyzing my Spotify listening data and finding fun ways to use it
 
 
-Projects:
 
 Check out what I’ve been working on!: 
 
