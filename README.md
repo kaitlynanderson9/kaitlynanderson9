@@ -25,6 +25,6 @@ Let's Connect!
 
 💼 LinkedIn: http://www.linkedin.com/in/kaitlynanderson9
 
-🌐 Personal Website: sites.google.com/view/kaitlynanderson
+🌐 Personal Website: https://sites.google.com/view/kaitlynanderson/home
 
 Thanks for visiting! 😊
