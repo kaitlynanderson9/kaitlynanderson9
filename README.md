@@ -5,7 +5,9 @@ Welcome to my GitHub profile! I’m Kaitlyn, a junior double majoring in statist
 Here’s a bit about me:
 
 📚 Major: statistics and data science
+
 🧠 Programming Languages: R, C++, and Python
+
 🌱 Currently Working On: Analyzing my Spotify listening data and finding fun ways to use it
 
 Projects:
