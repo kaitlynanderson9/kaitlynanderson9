@@ -1,6 +1,4 @@
-👋 Hello, World! 🌟
-
-Welcome to my GitHub profile! I’m Kaitlyn, a junior double majoring in statistics and data science with a passion for data analysis and problem-solving. When I'm not studying or attending classes, you'll find me diving into coding projects. I’m excited to share my projects and journey with you. 😊
+Welcome to my GitHub profile! I’m Kaitlyn, a junior double majoring in statistics and data science with a passion for data analysis and problem-solving.
 
 Here’s a bit about me:
 
