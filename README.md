@@ -6,9 +6,6 @@ Here’s a bit about me:
 
 🧠 Programming Languages: R, C++, and Python
 
-🌱 Currently Working On: Analyzing my Spotify listening data and finding fun ways to use it
-
-
 
 Check out what I’ve been working on!: 
 
@@ -22,6 +19,5 @@ Let's Connect!
 
 💼 LinkedIn: http://www.linkedin.com/in/kaitlynanderson9
 
-🌐 Personal Website: https://sites.google.com/view/kaitlynanderson/home
 
 Thanks for visiting! 😊
